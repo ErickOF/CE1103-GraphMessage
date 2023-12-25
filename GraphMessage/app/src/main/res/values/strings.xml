@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Graph Message</string>
+
+    //Facebook
+    <string name="facebook_app_id">366458800357996</string>
+    <string name="cancel_login">Login Cancelado</string>
+    <string name="error_login">Error de Login</string>
+    <string name="log_out">Logout</string>
+    <string name="continuar">Continuar</string>
+
+    //Bluetooth
+    <string name="DesactivarBluetooth">Desactivar Bluetooth</string>
+    <string name="ActivarBluetooth">Activar Bluetooth</string>
+    <string name="DetectadoDispositivo">Detectado dispositivo</string>
+    <string name="BuscarDispositivo">Buscar</string>
+    <string name="action_settings">Settings</string>
+    <string name="IniciandoDescubrimiento">Iniciando busqueda de dispositivos bluetooth&#8230;</string>
+    <string name="ErrorIniciandoDescubrimiento">Error al iniciar busqueda de dispositivos bluetooth</string>
+
+</resources>
